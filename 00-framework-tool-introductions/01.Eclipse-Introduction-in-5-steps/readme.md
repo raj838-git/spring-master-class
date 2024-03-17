@@ -9,17 +9,18 @@
 - Step 1 : Create a Java Project 
   - Create and run a Java class
 - Step 2 : Keyboard Shortcuts
-  - Ctrl + Space - Show all available options for auto-completion and suggestion 
+  - Ctrl + Space : Show all available options for auto-completion and suggestion 
     - BigDecimal - Auto Suggestion
     - Templates - main, fore, sysout, syserr
   - Ctrl + 1 : Show all available options when any errors present
     - File Name and Class Name does not match - Display Errors
     - Rename a Class - What suggestions are offered?
     - new Integer() - What suggestions are offered?
-  - Ctrl + Shift + R (and T)
+  - Ctrl + Shift + R : Searching through all Resources(Files) in a project
+  - Ctrl + Shift + T : Search/find a Type(Class)
   - F3 (Goto declaration)
   - F4 (Type Hierarchy)
-  - Ctrl + Shift + L
+  - Ctrl + Shift + L : All available shortcuts
 - Step 3 : Views and Perspectives
 - Step 4 : Save Actions
 - Step 5 : Code Generation
